@@ -13,7 +13,7 @@ body {
   justify-content: center;
   padding: 0 10px;
   min-height: 100vh;
-  background: #f28c28;
+  background: rgb(183, 247, 244);
 }
 
 .container {
@@ -22,7 +22,7 @@ body {
   padding: 30px;
   background: #fff;
   border-radius: 1rem;
-  box-shadow: 0px 0px 36px -5px #b8b8ff;
+  box-shadow: 0px 0px 36px -5px #b3b3fa;
 }
 
 .wrapper {
@@ -136,7 +136,7 @@ li,
   margin-top: 20px;
   font-size: 1.2rem;
   border-radius: 0.3rem;
-  background: #6320ee;
+  background: #54a1bb;
 }
 
 @media (max-width: 660px) {
